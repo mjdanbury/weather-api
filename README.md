@@ -1,2 +1,1 @@
-# hw5
- thinking bout the weather
+# practicing accessing APIs
